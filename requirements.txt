@@ -1,0 +1,8 @@
+dotenv
+langchain~=0.3.4
+langchain-chroma~=0.1.4
+langchain-community~=0.3.2
+langchain-openai
+
+chromadb~=0.5.15
+pypdf~=5.0.1
