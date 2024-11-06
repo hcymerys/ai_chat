@@ -11,7 +11,7 @@ Na podstawie instrukcji  https://python.langchain.com/docs/tutorials/pdf_qa/:
     - "What was Nike's revenue in 2023?"
     - "Who is Craig Williams?"
     - "Tell me about gross margin of Nike in 2023"
-    - "Tell me revenues in footwear, apparell and equipment for Nike in 2023, 2022 and 2021"
+    - "Tell me revenues in footwear, apparel and equipment for Nike in 2023, 2022 and 2021"
 12. Dodatkowe zadania:
     a. Do odpowiedzi aplikacji dodaj kontekst mówiący skąd dokładnie pochodzi odpowiedź (strona, fragment tekstu z PDF)
     b. Sprawdź jak będą wyglądały odpowiedzi dla chunk_size=100, chunk_overlap=0
